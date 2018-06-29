@@ -69,6 +69,7 @@ transaction vote {
 }
 ```
 logic.js code
+
 Note: the line 'use strict'; is not needed when using Hyperledger Composer
 ``` JavaScript
 'use strict';
